@@ -1,3 +1,18 @@
+########################################################################################
+##
+##  Particle Swarm Optimization of Neural Networks
+##
+##  This code is very much still in development. Many future updates are expected!
+##
+##  TODO:
+##    - Create an efficient 'stopping' solution
+##    - Efficient method of assessing progression
+##    - Merge data pre-processing funcitons
+##    - Convert to Object-orienting programming format
+##    - Optimize!!!
+##
+########################################################################################
+
 ## 3 input 3 output NN
 ## data structure row = samples, col = var
 In.Data<-matrix(0,nrow=dim(iris),ncol=4)
